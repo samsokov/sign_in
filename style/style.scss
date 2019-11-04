@@ -1,0 +1,73 @@
+body {
+  main {
+    section {
+      .container {
+        .row {
+          .col-lg-8 {
+            .card {
+              border-radius: 10px;
+              //border: none !important;
+              .row {
+                .col-5,.col-6 {
+                  .cabin{
+                    text-decoration: none;
+                    color: white;
+                  }
+                  .fa-facebook-square{
+                    color: #005cbf !important;
+                  }
+                  .fa-twitter-square{
+                    color: #007bff;
+                  }
+                  .fa-google-plus-square{
+                    color: red;
+                  }
+                  .btn {
+                    width: 110px;
+                    height: 45px;
+                  }
+
+                  .check {
+                    margin-top: 36px !important;
+                    //width: 20px;
+                    //height: 20px;
+                  }
+
+                  h1 {
+                    font-family: Arial;
+                    font-weight: bold;
+                  }
+
+                  .chiziq {
+                    .fas {
+                      padding-top: 20px !important;
+                    }
+
+                    width: 85%;
+                    border-bottom: 1px solid black;
+
+                    input {
+                      outline: none !important;
+                      border: none !important;
+                      //border-bottom: 1px solid black !important;
+                    }
+                  }
+
+                  p {
+                    a {
+                      text-decoration: none !important;
+
+                      u {
+                        color: black;
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

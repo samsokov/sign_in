@@ -1,0 +1,33 @@
+body main section .container .row .col-lg-8 .card {
+  border-radius: 10px; }
+  body main section .container .row .col-lg-8 .card .row .col-5 .cabin, body main section .container .row .col-lg-8 .card .row .col-6 .cabin {
+    text-decoration: none;
+    color: white; }
+  body main section .container .row .col-lg-8 .card .row .col-5 .fa-facebook-square, body main section .container .row .col-lg-8 .card .row .col-6 .fa-facebook-square {
+    color: #005cbf !important; }
+  body main section .container .row .col-lg-8 .card .row .col-5 .fa-twitter-square, body main section .container .row .col-lg-8 .card .row .col-6 .fa-twitter-square {
+    color: #007bff; }
+  body main section .container .row .col-lg-8 .card .row .col-5 .fa-google-plus-square, body main section .container .row .col-lg-8 .card .row .col-6 .fa-google-plus-square {
+    color: red; }
+  body main section .container .row .col-lg-8 .card .row .col-5 .btn, body main section .container .row .col-lg-8 .card .row .col-6 .btn {
+    width: 110px;
+    height: 45px; }
+  body main section .container .row .col-lg-8 .card .row .col-5 .check, body main section .container .row .col-lg-8 .card .row .col-6 .check {
+    margin-top: 36px !important; }
+  body main section .container .row .col-lg-8 .card .row .col-5 h1, body main section .container .row .col-lg-8 .card .row .col-6 h1 {
+    font-family: Arial;
+    font-weight: bold; }
+  body main section .container .row .col-lg-8 .card .row .col-5 .chiziq, body main section .container .row .col-lg-8 .card .row .col-6 .chiziq {
+    width: 85%;
+    border-bottom: 1px solid black; }
+    body main section .container .row .col-lg-8 .card .row .col-5 .chiziq .fas, body main section .container .row .col-lg-8 .card .row .col-6 .chiziq .fas {
+      padding-top: 20px !important; }
+    body main section .container .row .col-lg-8 .card .row .col-5 .chiziq input, body main section .container .row .col-lg-8 .card .row .col-6 .chiziq input {
+      outline: none !important;
+      border: none !important; }
+  body main section .container .row .col-lg-8 .card .row .col-5 p a, body main section .container .row .col-lg-8 .card .row .col-6 p a {
+    text-decoration: none !important; }
+    body main section .container .row .col-lg-8 .card .row .col-5 p a u, body main section .container .row .col-lg-8 .card .row .col-6 p a u {
+      color: black; }
+
+/*# sourceMappingURL=style.css.map */
